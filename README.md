@@ -1,3 +1,13 @@
+<h1 align="center"> Modelagem do Consenso Bizantino em Timed Automata </h1>
+
+
+<img width="2488" height="644" alt="imagem34" src="https://github.com/user-attachments/assets/d3aef0e8-8c8b-4515-9dd3-c821539447e1" />
+
+
+<h2> Tecnologias utilizadas: </h2> Uppal
+
+
+<h2>Descrição do Projeto</h2>
 Este trabalho faz parte de uma proposta de dissertação, e apresenta uma modelagem para o Consenso Bizantino, formalizado por
 Leslie Lamport, Robert Shostak, e Marshall Pease. O Consenso Bizantino é  essencial para segurança e funcionamento de sistemas distribuídos,
 permitindo que eles operem de forma confiável mesmo na presença de falhas. Para isto, foi utilizado o verificador de modelos UPPAAL, uma
